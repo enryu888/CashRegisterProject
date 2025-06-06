@@ -1,0 +1,25 @@
+
+----------------------------------------
+Transaction Date: 2025-06-06 20:25:34
+Cashier: darren888
+Items:
+1 x Burger - ₱99
+2 x Chicken - ₱298
+3 x McFlurry - ₱177
+Total Amount: ₱574
+Payment: ₱700
+Change: ₱126
+----------------------------------------
+
+----------------------------------------
+Transaction Date: 2025-06-06 20:26:14
+Cashier: darren888
+Items:
+2 x Burger - ₱198
+1 x Chicken - ₱149
+2 x McFlurry - ₱118
+Total Amount: ₱465
+Payment: ₱500
+Change: ₱35
+----------------------------------------
+
